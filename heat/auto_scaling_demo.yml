@@ -19,7 +19,7 @@ parameters:
     description: Image used to boot the servers
   availability_zone:
     type: string
-    description: Name of the availability zone for server placement.
+    description: Name of the availability zone for server placement
   private_net_id:
     type: string
     label: Private network ID
