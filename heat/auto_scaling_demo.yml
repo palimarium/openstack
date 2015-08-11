@@ -1,4 +1,4 @@
-heat_template_version: 2015-08-11
+heat_template_version: 2015-04-30
 
 description: >
   This is a simple template that illustrates automatic scaling up and down
